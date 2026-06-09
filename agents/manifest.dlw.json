@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Umaro",
+  "universe": "FF6 · Final Fantasy VI",
+  "emergence": "natural",
+  "moniker": "⟦Umaro:FF6:4257f2⟧",
+  "carbon": "umaro.carbon.tiff (TIFF)",
+  "silicon": "umaro.silicon.png (PNG)",
+  "seal_sha256": "dded65fe58daf2923aec4c8eb056d901be05f525b742e8ac5d593d357fb36fcf",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

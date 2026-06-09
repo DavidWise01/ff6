@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "terra-branford",
+    "name": "Terra Branford",
+    "epithet": "the half-Esper",
+    "emergence": "ethereal",
+    "moniker": "⟦Terra Branford:FF6:59d7cb⟧"
+  },
+  {
+    "slug": "celes-chere",
+    "name": "Celes Chere",
+    "epithet": "the Magitek Knight",
+    "emergence": "electrical",
+    "moniker": "⟦Celes Chere:FF6:071671⟧"
+  },
+  {
+    "slug": "locke-cole",
+    "name": "Locke Cole",
+    "epithet": "the treasure hunter",
+    "emergence": "natural",
+    "moniker": "⟦Locke Cole:FF6:7578c5⟧"
+  },
+  {
+    "slug": "edgar-figaro",
+    "name": "Edgar Roni Figaro",
+    "epithet": "the machinist king",
+    "emergence": "electrical",
+    "moniker": "⟦Edgar Roni Figaro:FF6:f525c7⟧"
+  },
+  {
+    "slug": "sabin-figaro",
+    "name": "Sabin Rene Figaro",
+    "epithet": "the renegade prince",
+    "emergence": "natural",
+    "moniker": "⟦Sabin Rene Figaro:FF6:54bfdb⟧"
+  },
+  {
+    "slug": "cyan-garamonde",
+    "name": "Cyan Garamonde",
+    "epithet": "the samurai retainer",
+    "emergence": "natural",
+    "moniker": "⟦Cyan Garamonde:FF6:fec6fb⟧"
+  },
+  {
+    "slug": "gau",
+    "name": "Gau",
+    "epithet": "the wild child",
+    "emergence": "natural",
+    "moniker": "⟦Gau:FF6:2df6d6⟧"
+  },
+  {
+    "slug": "setzer-gabbiani",
+    "name": "Setzer Gabbiani",
+    "epithet": "the gambler",
+    "emergence": "natural",
+    "moniker": "⟦Setzer Gabbiani:FF6:f4fc4e⟧"
+  },
+  {
+    "slug": "shadow",
+    "name": "Shadow",
+    "epithet": "the ninja",
+    "emergence": "natural",
+    "moniker": "⟦Shadow:FF6:53fb89⟧"
+  },
+  {
+    "slug": "relm-arrowny",
+    "name": "Relm Arrowny",
+    "epithet": "the child painter",
+    "emergence": "ethereal",
+    "moniker": "⟦Relm Arrowny:FF6:39d277⟧"
+  },
+  {
+    "slug": "strago-magus",
+    "name": "Strago Magus",
+    "epithet": "the Blue Mage",
+    "emergence": "ethereal",
+    "moniker": "⟦Strago Magus:FF6:7ce543⟧"
+  },
+  {
+    "slug": "mog",
+    "name": "Mog",
+    "epithet": "the Moogle of Narshe",
+    "emergence": "natural",
+    "moniker": "⟦Mog:FF6:638cd5⟧"
+  },
+  {
+    "slug": "umaro",
+    "name": "Umaro",
+    "epithet": "the wild yeti",
+    "emergence": "natural",
+    "moniker": "⟦Umaro:FF6:4257f2⟧"
+  },
+  {
+    "slug": "gogo",
+    "name": "Gogo",
+    "epithet": "the cloaked enigma",
+    "emergence": "ethereal",
+    "moniker": "⟦Gogo:FF6:a7b96f⟧"
+  },
+  {
+    "slug": "kefka-palazzo",
+    "name": "Kefka Palazzo",
+    "epithet": "the god of ruin",
+    "emergence": "spiritual",
+    "moniker": "⟦Kefka Palazzo:FF6:94fd5d⟧"
+  }
+]
